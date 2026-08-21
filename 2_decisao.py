@@ -3,7 +3,7 @@
 # como o JS faz (if (nota >= 7) { ... }) — usa só ":" e indentação.
 # O "else if" (duas palavras) do JS vira "elif" (uma palavra) em Python.
 
-nota = 7.5
+nota = 4.5
 
 if nota >= 7:
     print("Aprovado")
